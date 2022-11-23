@@ -6,3 +6,9 @@ color: #37747b3;
 #intro{
 color: rgb(113, 130, 131);
 font: 500;
+}
+#hello{
+color: green;
+font-family: "Times New Roman", Times, serif;
+font-size: large;
+}
